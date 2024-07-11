@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Library_Sqli_Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21443b40f792be2da2c730a25971435faa01c3b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Library_Sqli_Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Library_Sqli_Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

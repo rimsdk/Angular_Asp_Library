@@ -1,0 +1,3 @@
+[submodule "Angular_Asp_Library"]
+	path = Angular_Asp_Library
+	url = https://github.com/rimsdk/Angular_Asp_Library.git

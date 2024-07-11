@@ -135,3 +135,4 @@ C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\refi
 C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.pdb
 C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.genruntimeconfig.cache
 C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\ref\Library_Sqli_Api.dll
+C:\Users\HP\source\repos\Library_Sqli_Api\Library_Sqli_Api\obj\Debug\net8.0\Library_Sqli_Api.sourcelink.json
